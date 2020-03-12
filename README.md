@@ -1,4 +1,4 @@
-# Combination Lock (Unity / C#)
+# Tilemap to Mesh (Unity / C#)
 
 ![Tilemap to Mesh](/doc/tilemap_to_mesh.PNG)
 
