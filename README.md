@@ -18,7 +18,7 @@ How to use:
 
 * "Create Tilemap Mesh" button should activate - press it to create the mesh
 
-There resulting mesh Asset will be created in the target folder. Also, a new gameobject will be added to current scene, and it will have a Mesh Filter with the created mesh assigned and a Mesh Renderer.
+The resulting Mesh Asset will be created in the target folder. Also, a new GameObject will be added to current scene, and it will have a Mesh Filter with the created Mesh assigned and also a Mesh Renderer.
 
 
 # Classes
