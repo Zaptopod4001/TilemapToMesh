@@ -4,7 +4,7 @@
 
 ## What is it?
 
-A Unity Editor tool / EditorWindow that can be used to convert a Unity Tilemap into Unity GameObject + mesh.
+A Unity Editor tool / EditorWindow that can be used to convert a Unity Tilemap into Unity GameObject + Mesh Asset.
 
 How to use:
 
