@@ -1,6 +1,6 @@
 # Combination Lock (Unity / C#)
 
-![Tilemap to Mesh](/doc/tilemap_to_mesh.png)
+![Tilemap to Mesh](/doc/tilemap_to_mesh.PNG)
 
 ## What is it?
 
