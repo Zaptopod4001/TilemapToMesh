@@ -24,10 +24,10 @@ The resulting Mesh Asset will be created in the target folder. Also, a new GameO
 # Classes
 
 ## TilemapToMesh.cs
-Editor script which creates the Tilemap to mesh window, also contains the mesh creation code. I won't warn more about using this script as you shouldn't be using it.
+Editor script which creates the Tilemap to mesh window, also contains mesh creation code. I won't warn more about using this script as you shouldn't be using it.
 
-## About
-I created tilemap to mesh converter for myself, as I needed at some point.
+# About
+I created tilemap to mesh converter for myself, as I needed such functionality once.
 
-## Copyright
+# Copyright
 Created by Sami S. use of any kind without a written permission from the author is not allowed. But feel free to take a look.
